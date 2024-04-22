@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91858a0312cda174dbea8f52499df143
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _animationContorller: {instanceID: 0}
+  - _moveEvent: {fileID: 11400000, guid: 45b1118c9a25d694bb8c26256fd40b29, type: 2}
+  - _cancelMovementEvent: {fileID: 11400000, guid: 932576fffe3174c4bb7ff98f16a311fe, type: 2}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 3d8603e6fdae14a4ebf6bc60fcb2bc09, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

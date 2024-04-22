@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1094ab64811aa3949be8170f248e11c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _entityTriggerEnterEvent: {fileID: 11400000, guid: c781cfa3cf0711e40a2650142a2f4e93, type: 2}
+  - _entityTriggerStayEvent: {fileID: 11400000, guid: 200758f60b168f442a68cab2bec85522, type: 2}
+  - _entityTriggerLeaveEvent: {fileID: 11400000, guid: 65fd0e0bec022c7499e87370d94667ff, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
